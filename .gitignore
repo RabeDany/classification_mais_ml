@@ -1,0 +1,29 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Modèles entraînés
+models/*.pkl
+
+# Résultats
+results/
+
+# Uploads temporaires
+uploads/
+
+# Logs
+*.log
